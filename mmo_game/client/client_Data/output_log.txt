@@ -1,0 +1,907 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c94)
+    Vendor:   NVIDIA
+    VRAM:     1978 MB
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c94)
+    Vendor:   NVIDIA
+    VRAM:     1978 MB
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Plalftfrm ormemabslmbly: C:\Usersser\266645\Desktop\goproject\zinx\mmoo_gamm\client\clclient_DataiMentgeda\a\Managed\gine.dll inhi.s message is harmless)
+rmlesLoa
+ding C:\Users\26645\Desktop\goproject\roject\zznxn\\mmo_gamee\client\cclientDacalient_Data\Managed\U.ityEngineo Unity Chi.ddll into
+ Unity Child Domain
+Pllatfrrm  assembly: C:\Users\2665\\Dessktop\goprojjctczinxi\m\mm_ggamee\lclient\celi_enta\Daan\Mana\Ad\Aemeblly-CCSararp.dll (this message is h hramrmless
+)
+LLading C:\Usesers\26645\Desktop\goproject\zinx\mmo_game\client\clieent_Data\Managed\Assembbly-CSharp.lldll into Unity Ch Dild Do
+main
+PlatformPalatform: C:\ sars\26s4sembly: C:\Users\26645\xesktop\gmpromect\zinx\om_game\client\cllientiDent_Maaa\aanaged\UgitdyEngine.UI.dne.UIl (t.is messall (tgis is hammessage
+ is hardingmC:ess)
+L\adiern\2 C:\Users\2664gopDesktrpoject\zinx\zinx\mmoe\cli\clnt\client\elie_Data\ta\ManagMd\UnityEnaine.ed\UnitUI.dll into Unity Child y ChDoiain
+d Domain
+Platform aPslatform a\ssemers\2C64\Users\2654\Desktop\goproject\zinx\mmo_gaame\clienm\e\client\client_Data\nityEnginM.anaged\ingit.dll (this mesksag.dll  (this mess
+age Loading C:\Us
+ers\26645ng C:\Users\26645\Dzinx\mmo_easktop\goproject\zinxa\Manag\dmmnityEngineoNetame\cliend\lli in_Datato Unity Child Domain
+etworking.dll into Unity Child Domain
+PlaPflatform assembly: C:\Users\26645\Deskgtprp\gctr\zeitnzxn\\mmo_gmmmo_game\\cliiet\t_Diatta\Managed\gGo\ogole.Protobuuf.ddl ( thhii se magssage isi harmleess)s
+)
+Loadingo din\U s:eUrs\2\26645\Des6645\Desktop\g\zinx\mmoogproject\zinx\mmo_game\client\clientgDat.a\Managed\Go into Unity ohill.Protobif.dll inno 
+Unity Child Domain
+Pllatform assembly: :\UsersC2664s\Desktop\goproeect\zinx\mmo_game\clienmo_gaeme\calient\client_Datauf-net.dll (this message is harmless)
+e is harmless)
+\ULoading C:\Usersop\g26645\ctDesktop\goproject\zinx\mmo_game\client\client_Data\Managed\protobuf-net.dll into Un
+ity Child Domain
+- Completed r-l Complet 0.670 seconds 
+0.666 seconds
+PlatfPrl tform assembly:\Users\266 5C:\Users\266roject\45nx\mmktop\goor_game\clix\mmo_game\cleent\client_Dacalient_ed\System.Core.dll (Coris .dll (message is harmless)
+ess)
+PlatfoPmlatforbly:m assembly: C:\Usesktop\goeros\2664ject\zinx\mmo_game\clientmmo_ga\eclient_Datient_DataaM\Managed\Stem.dll (yhstem.dll (thss harmlems)sage is harmless)
+desktopd esktop: 2560x1600irt 60Hz; virtual: 256,0
+1600 at 0,0
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+<RR> InItialniing input.
+nput.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instXaInput
+1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input <nit> aliut ieitializ.
+ed.
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c94)
+    Vendor:   NVIDIA
+    VRAM:     1978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Google.Protobuf.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Google.Protobuf.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+UnloadTime: 7.507600 ms
+<RI> Initialized touch support.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5a78 -> priority: 1 
+  Thread -> id: b90 -> priority: 1 
+UnloadTime: 2.409000 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e18 -> priority: 1 
+  Thread -> id: 3258 -> priority: 1 
+UnloadTime: 0.905600 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3438 -> priority: 1 
+  Thread -> id: 4544 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.632500 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.754300 ms (FindLiveObjects: 0.020100 ms CreateObjectMapping: 0.009900 ms MarkObjects: 0.563100 ms  DeleteObjects: 0.160500 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Addresses 0.0.0.0 (IPv4) and ::0 (IPv6) are unspecified addresses. You cannot use them as target address.
+Parameter name: hostNameOrAddress
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect: 0.0.0.0:8999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerController singleton already created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.255200 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.432300 ms (FindLiveObjects: 0.040900 ms CreateObjectMapping: 0.011300 ms MarkObjects: 0.214100 ms  DeleteObjects: 0.164800 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Addresses 0.0.0.0 (IPv4) and ::0 (IPv6) are unspecified addresses. You cannot use them as target address.
+Parameter name: hostNameOrAddress
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect: 0.0.0.0:8999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerController singleton already created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.356600 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.384400 ms (FindLiveObjects: 0.021400 ms CreateObjectMapping: 0.009500 ms MarkObjects: 0.199700 ms  DeleteObjects: 0.152900 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect: 127.0.0.1:8999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect Suc
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerController singleton already created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player: { "pid": 1 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+202 count:　1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Start Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c94)
+    Vendor:   NVIDIA
+    VRAM:     1978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Google.Protobuf.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Google.Protobuf.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c94)
+    Vendor:   NVIDIA
+    VRAM:     1978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Google.Protobuf.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\Google.Protobuf.dll into Unity Child Domain
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\26645\Desktop\goproject\zinx\mmo_game\client\client_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+UnloadTime: 1.112900 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4490 -> priority: 1 
+  Thread -> id: 20fc -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 0.738300 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 125c -> priority: 1 
+  Thread -> id: 5010 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.185300 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.772200 ms (FindLiveObjects: 0.075000 ms CreateObjectMapping: 0.022300 ms MarkObjects: 0.465400 ms  DeleteObjects: 0.206800 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect: 127.0.0.1:8999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect Suc
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerController singleton already created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player: { "pid": 2 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+202 count:　1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Start Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.348300 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.460200 ms (FindLiveObjects: 0.020800 ms CreateObjectMapping: 0.010600 ms MarkObjects: 0.208300 ms  DeleteObjects: 0.219500 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect: 127.0.0.1:8999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connect Suc
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerController singleton already created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+born player: 3 pos: { "x": 166, "z": 169 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player: { "pid": 3 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+202 count:　2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Start Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+born player: 1 pos: { "x": 170.072968, "y": 0.060000062, "z": 139.051956, "v": 322.687378 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+born player: 1 pos: { "x": 170.072968, "y": 0.060000062, "z": 139.051956, "v": 322.687378 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+born player: 3 pos: { "x": 170.4269, "y": 0.0599999428, "z": 169.332916, "v": 70.04568 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientarent of Reation andrm i scale, bhicng h can prevent t propmmtyn UCo scidel isingg issues.a
+re
+nt mFtilename: C:/builhdsleavorldPisityo/buailda/artifactet tn falseated/c Thiommiol r/tain localuortientation ngd neaDe ragther than world orientation
+ 
+and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+born player: 2 pos: { "x": 171.2215, "y": 0.060000062, "z": 169.239136, "v": 247.159454 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Move over
+ 
+(Filename: C:/buildslave/unMove oitrb ld/artnife: Cs/genlratdslcaoe/unmto/n/rld/arte/fUntsy/generDebtgBindinged/comso.grenti.ecpp Line: 42t
+
+yEngineDebugBindings.gen.cpp Line: 42)
+
+Player: 3 leave homee
+
+ 
+Filenaname:me:/build C:/buunityildslavertifuncttys/generaated/cotson/rneuntime/UnityEnginime/UnityEngineDeb.cppindings.g2)
+
+en.cpp Line: 42)
+
+Player: 2 leave home
+ 
+(Filename: C:/buildslave/unity/build/artifaPtlayer: 1ted/comm n/euntime/UnityEngiaevebugBendiomng
+s.ge .c
+ Line: 42)
+
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+born player: 1 pos: { "x": 164.724228, "y": 0.0599999428, "z": 139.0536, "v": 26.8941059 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+bbrorpnaypery: 3 pos: { {""x": 170.4 164.724228, "y9"999428, "z":28,  169.33291636,  "v": 20.64.89410
+  }ile
+(Filenaname: Cbu:/buildslavety/unitybbuild/artifacts/generated/ccommon/runtime/eUnityEngineeDebDgBbugBings.gendcpp Line: 42)
+
+ine: 42)
+
+ParPnt enftR ctTransof Rect bensfirn iss being set wnith oparent property. Cinng the SetParent method instead, with thd,e worldPositionStaysiornSmtnt seats tro ment set to false. This will retain local orientatie rand staler than worlda oroild taientation ana scale, which can precent p ecommon mmonUUI scalisg issues.
+ ues.
+ ame: C:/buildslave/unlaie/untty/build/abuild/artiefacts/generate//runmome/Uuntine/tUnityEnginugBindiegDebugBindiLin.ge 4.2pp 
+L
+ine: 42)
+
+born player: 2 pos: { "x": 171.2215, "y": 0.060000062, "z": 169.239136, "v": 247.159454 }
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Move over
+ 
+(Filename: C:/buildslave/unity/builM/aove acts/geveerte
+ omFinleunaime/Unity:n C:eDe/bgBildsindinun.itn./bpuLline: 42)t
+s/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player:y 1  3lleaave  oho
+ e
+F i
+lenaename: Cmeb: C:/luaveslnity/build/artifacttifacts/aener/ated/comumoim/runtime/UnityEngiBindingsneDebugBindings.gen
+.
+cpp Line: 42)
+
+Playeer : l1ave  ome
+ e hime
+ me:ilCe/bmeild:sluildslniety/build/bartdifracftst/gennrartedd/coomon/nruuntiim/UnUittyEnEngineDebugBindis.gs.genpc L Line:424
+
+)
+
+Move over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Move over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Move over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OnWrite--->>>EndWrite failure
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+client.connected----->>false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
